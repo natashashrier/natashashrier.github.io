@@ -1,0 +1,51 @@
+.pink {
+	text-align:center;
+}
+
+.grey {
+	text-align:center;
+}
+
+.card-block {
+	padding:10px;
+	border: 1px solid black;
+	border-radius: 13px;
+	background-color: white;
+}
+
+body { padding-top: 70px; }
+
+.img-circle {
+	width: 100px
+
+}
+
+ul {
+	text-align:left;
+}
+
+.container {
+	background: linear-gradient(#942D38,white);
+}
+
+.video {
+	text-align:center;
+}
+
+h1 {
+	text-align:right;
+}
+
+
+.navbar-brand, .nav-link {
+	color:white;
+}
+
+.bg-black{
+	background-color: black;
+}
+
+.message {
+		text-align:left;
+}
+
